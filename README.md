@@ -27,7 +27,13 @@ This Python-based YouTube downloader supports downloading videos in multiple for
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the app:
+3. Replace
+   ```bash
+   "C:\Users\[USERNAME]\AppData\Local\Programs\Python\Python311\Lib\site-packages\yt_dlp\extractor\lazy_extractors.py"
+   ```
+   with file lazy_extractors.py in the repo for much faster build !!
+    
+4. Run the app:
 
    ```bash
    python app.py
