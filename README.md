@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📢 **Contact**
 
-If you have any questions or issues, feel free to open an issue on the GitHub repository, or contact me directly at \[[your\_email@example.com](https://www.instagram.com/mahmoud.aboulnasr/)].
+If you have any questions or issues, feel free to open an issue on the GitHub repository, or contact me directly at \[[your\ My InstaGram](https://www.instagram.com/mahmoud.aboulnasr/)].
 
 ---
 
